@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1575364793
-ModificationTime: 1707313041
+ModificationTime: 1707324113
 PfmFamily: 81
 TTFWeight: 300
 TTFWidth: 5
@@ -4240,7 +4240,7 @@ ShortTable: maxp 16
   3
   3
 EndShort
-LangName: 1033 "Copyright +AKkA 2019 by Coji Morishita. All rights reserved." "" "Regular" "1.000;M+-  ;Reijima-LightItalic;featfreeze:" "" "Version 1.000" "" "" "UNDERFOREST DESIGN" "Coji Morishita, Cristiano Sobral" "" "http://www.underforest.com" "http://www.underforest.com" "" "" "" "Reijima" "Light Italic"
+LangName: 1033 "Copyright +AKkA 2019 by Coji Morishita. All rights reserved." "" "Italic" "1.000;M+-  ;Reijima-LightItalic;featfreeze:" "" "Version 1.000" "" "" "UNDERFOREST DESIGN" "Coji Morishita, Cristiano Sobral" "" "http://www.underforest.com" "http://www.underforest.com" "" "" "" "Reijima" "Light Italic"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeFull
 Compacted: 1
@@ -4249,7 +4249,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 648 27 9
+WinInfo: 405 27 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 262144 131072 87381 545260 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144

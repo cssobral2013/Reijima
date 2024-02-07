@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1575364793
-ModificationTime: 1707313254
+ModificationTime: 1707323982
 PfmFamily: 81
 TTFWeight: 500
 TTFWidth: 5
@@ -4238,7 +4238,7 @@ ShortTable: maxp 16
   3
   3
 EndShort
-LangName: 1033 "Copyright +AKkA 2019 by Coji Morishita. All rights reserved." "" "Regular" "1.000;M+-  ;Reijima-Medium;featfreeze:" "" "Version 1.000" "" "" "UNDERFOREST DESIGN" "Coji Morishita, Cristiano Sobral" "" "http://www.underforest.com" "http://www.underforest.com" "" "" "" "Reijima" "Medium Italic"
+LangName: 1033 "Copyright +AKkA 2019 by Coji Morishita. All rights reserved." "" "Italic" "1.000;M+-  ;Reijima-Medium;featfreeze:" "" "Version 1.000" "" "" "UNDERFOREST DESIGN" "Coji Morishita, Cristiano Sobral" "" "http://www.underforest.com" "http://www.underforest.com" "" "" "" "Reijima" "Medium Italic"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeFull
 Compacted: 1
