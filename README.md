@@ -2,5 +2,6 @@
 Is developed from Mplus 1. Changes include:
 
 - W with flat top
-- 2, 3, 5, 6, and 9 have vertical terminals
+- Imported Greek/Cyrillic support from older versions
+- Tabular figures with the same width across weights
 - Added italics
