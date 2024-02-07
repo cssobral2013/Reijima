@@ -22,25 +22,25 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1575364793
-ModificationTime: 1707276343
+ModificationTime: 1707280537
 PfmFamily: 81
 TTFWeight: 300
 TTFWidth: 5
 LineGap: 0
 VLineGap: 1000
 Panose: 0 0 4 0 0 0 0 0 0 0
-OS2TypoAscent: 860
+OS2TypoAscent: 960
 OS2TypoAOffset: 0
-OS2TypoDescent: -140
+OS2TypoDescent: -230
 OS2TypoDOffset: 0
 OS2TypoLinegap: 200
 OS2WinAscent: 1060
 OS2WinAOffset: 0
-OS2WinDescent: 140
+OS2WinDescent: 330
 OS2WinDOffset: 0
 HheadAscent: 1060
 HheadAOffset: 0
-HheadDescent: -140
+HheadDescent: -330
 HheadDOffset: 0
 OS2SubXSize: 650
 OS2SubYSize: 600
@@ -4253,7 +4253,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 9
+WinInfo: 27 27 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 262144 131072 87381 545260 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
