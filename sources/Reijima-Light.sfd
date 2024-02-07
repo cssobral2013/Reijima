@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1575364793
-ModificationTime: 1707280537
+ModificationTime: 1707313298
 PfmFamily: 81
 TTFWeight: 300
 TTFWidth: 5
@@ -55,8 +55,8 @@ OS2StrikeYPos: 312
 OS2CapHeight: 730
 OS2XHeight: 520
 OS2Vendor: 'M+  '
-OS2CodePages: 20020193.00000000
-OS2UnicodeRanges: 20000007.00060000.00000000.00000000
+OS2CodePages: 0000019f.00000000
+OS2UnicodeRanges: a00002ff.4000004b.00000000.00000000
 Lookup: 1 0 0 "'aalt' Access All Alternates in Latin lookup 0" { "'aalt' Access All Alternates in Latin lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 3 0 0 "'aalt' Access All Alternates in Latin lookup 1" { "'aalt' Access All Alternates in Latin lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition in Latin lookup 2" { "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 0"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -72,10 +72,6 @@ Lookup: 1 0 0 "'tnum' Tabular Numbers in Latin lookup 11" { "'tnum' Tabular Numb
 Lookup: 1 0 0 "'case' Case-Sensitive Forms in Latin lookup 12" { "'case' Case-Sensitive Forms in Latin lookup 12 subtable"  } ['case' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 4 8 0 "'dlig' Discretionary Ligatures in Latin lookup 13" { "'dlig' Discretionary Ligatures in Latin lookup 13 subtable"  } ['dlig' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 4 8 1 "'liga' Standard Ligatures in Latin lookup 14" { "'liga' Standard Ligatures in Latin lookup 14 subtable"  } ['liga' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'fwid' Full Widths in Latin lookup 15" { "'fwid' Full Widths in Latin lookup 15 subtable" ("full") } ['fwid' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'vert' Vertical Alternates in Latin lookup 16" { "'vert' Vertical Alternates in Latin lookup 16 subtable"  } ['vert' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'vkna' Vertical Kana Alternates in Latin lookup 17" { "'vkna' Vertical Kana Alternates in Latin lookup 17 subtable"  } ['vkna' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'vrt2' Vertical Rotation & Alternates in Latin lookup 18" { "'vrt2' Vertical Rotation & Alternates in Latin lookup 18 subtable" ("vert") } ['vrt2' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 19" { "Single Substitution lookup 19 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 20" { "Single Substitution lookup 20 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 21" { "Single Substitution lookup 21 subtable"  } []
@@ -4246,22 +4242,22 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "Copyright +AKkA 2019 by Coji Morishita. All rights reserved." "" "Regular" "1.000;M+-  ;Reijima-Light;featfreeze:" "" "Version 1.000" "" "" "UNDERFOREST DESIGN" "Coji Morishita, Cristiano Sobral" "" "http://www.underforest.com" "http://www.underforest.com" "" "" "" "Reijima" "Light"
 GaspTable: 1 65535 15 1
-Encoding: UnicodeBmp
+Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 27 27 9
+WinInfo: 648 27 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 262144 131072 87381 545260 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-6" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-7" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-8" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-9" "'mkmk' Mark to Mark in Latin lookup 4 subtable" "Anchor-10" "'mkmk' Mark to Mark in Latin lookup 5 subtable" "Anchor-11" "'mkmk' Mark to Mark in Latin lookup 6 subtable"
-BeginChars: 65587 954
+BeginChars: 1114128 955
 
 StartChar: .notdef
-Encoding: 65536 -1 0
+Encoding: 1114112 -1 0
 Width: 500
 Flags: W
 TtInstrs:
@@ -15995,7 +15991,7 @@ Refer: 533 776 N 1 0 0 1 305 0 0
 EndChar
 
 StartChar: i.loclTRK
-Encoding: 65537 -1 278
+Encoding: 1114113 -1 278
 Width: 228
 GlyphClass: 2
 Flags: W
@@ -20576,7 +20572,7 @@ Kerns2: 439 10 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 43
 EndChar
 
 StartChar: f_f
-Encoding: 65538 -1 400
+Encoding: 1114114 -1 400
 Width: 762
 GlyphClass: 3
 Flags: W
@@ -20689,7 +20685,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 14 subtable" f f
 EndChar
 
 StartChar: f_f_i
-Encoding: 65539 -1 401
+Encoding: 1114115 -1 401
 Width: 1016
 GlyphClass: 3
 Flags: W
@@ -20701,7 +20697,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 14 subtable" f f i
 EndChar
 
 StartChar: f_f_l
-Encoding: 65540 -1 402
+Encoding: 1114116 -1 402
 Width: 989
 GlyphClass: 3
 Flags: W
@@ -21230,7 +21226,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 417 -1 N 1 0 0 1 12 0 0
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF10
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 12 subtable" zero.lf
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 10 subtable" zero.lf
 Substitution2: "'sups' Superscript in Latin lookup 6 subtable" uni2070
@@ -21244,7 +21239,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 418 -1 N 1 0 0 1 12 0 0
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF11
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 12 subtable" one.lf
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 10 subtable" one.lf
 Substitution2: "'sups' Superscript in Latin lookup 6 subtable" uni00B9
@@ -21258,7 +21252,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 419 -1 N 1 0 0 1 12 0 0
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF12
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 12 subtable" two.lf
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 10 subtable" two.lf
 Substitution2: "'sups' Superscript in Latin lookup 6 subtable" uni00B2
@@ -21272,7 +21265,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 420 -1 N 1 0 0 1 12 0 0
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF13
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 12 subtable" three.lf
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 10 subtable" three.lf
 Substitution2: "'sups' Superscript in Latin lookup 6 subtable" uni00B3
@@ -21286,7 +21278,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 421 -1 N 1 0 0 1 12 0 0
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF14
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 12 subtable" four.lf
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 10 subtable" four.lf
 Substitution2: "'sups' Superscript in Latin lookup 6 subtable" uni2074
@@ -21300,7 +21291,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 422 -1 N 1 0 0 1 12 0 0
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF15
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 12 subtable" five.lf
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 10 subtable" five.lf
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" five.lf uniFF15
@@ -21313,7 +21303,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 423 -1 N 1 0 0 1 12 0 0
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF16
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 12 subtable" six.lf
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 10 subtable" six.lf
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" six.lf uniFF16
@@ -21326,7 +21315,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 424 -1 N 1 0 0 1 12 0 0
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF17
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 12 subtable" seven.lf
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 10 subtable" seven.lf
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" seven.lf uniFF17
@@ -21339,7 +21327,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 425 -1 N 1 0 0 1 12 0 0
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF18
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 12 subtable" eight.lf
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 10 subtable" eight.lf
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" eight.lf uniFF18
@@ -21352,14 +21339,13 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 426 -1 N 1 0 0 1 12 0 0
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF19
 Substitution2: "'case' Case-Sensitive Forms in Latin lookup 12 subtable" nine.lf
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 10 subtable" nine.lf
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" nine.lf uniFF19
 EndChar
 
 StartChar: zero.lf
-Encoding: 65564 -1 417
+Encoding: 1114117 -1 417
 Width: 610
 Flags: W
 TtInstrs:
@@ -21431,7 +21417,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" zero
 EndChar
 
 StartChar: one.lf
-Encoding: 65565 -1 418
+Encoding: 1114118 -1 418
 Width: 610
 Flags: W
 TtInstrs:
@@ -21481,7 +21467,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" one
 EndChar
 
 StartChar: two.lf
-Encoding: 65566 -1 419
+Encoding: 1114119 -1 419
 Width: 610
 Flags: W
 TtInstrs:
@@ -21559,7 +21545,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" two
 EndChar
 
 StartChar: three.lf
-Encoding: 65567 -1 420
+Encoding: 1114120 -1 420
 Width: 610
 Flags: W
 TtInstrs:
@@ -21657,7 +21643,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" three
 EndChar
 
 StartChar: four.lf
-Encoding: 65568 -1 421
+Encoding: 1114121 -1 421
 Width: 610
 Flags: W
 TtInstrs:
@@ -21739,7 +21725,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" four
 EndChar
 
 StartChar: five.lf
-Encoding: 65569 -1 422
+Encoding: 1114122 -1 422
 Width: 610
 Flags: W
 TtInstrs:
@@ -21844,7 +21830,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" five
 EndChar
 
 StartChar: six.lf
-Encoding: 65570 -1 423
+Encoding: 1114123 -1 423
 Width: 612
 Flags: W
 TtInstrs:
@@ -21935,7 +21921,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" six
 EndChar
 
 StartChar: seven.lf
-Encoding: 65571 -1 424
+Encoding: 1114124 -1 424
 Width: 610
 Flags: W
 TtInstrs:
@@ -21989,7 +21975,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" seven
 EndChar
 
 StartChar: eight.lf
-Encoding: 65572 -1 425
+Encoding: 1114125 -1 425
 Width: 610
 Flags: W
 TtInstrs:
@@ -22090,7 +22076,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" eight
 EndChar
 
 StartChar: nine.lf
-Encoding: 65573 -1 426
+Encoding: 1114126 -1 426
 Width: 603
 Flags: W
 TtInstrs:
@@ -23024,7 +23010,7 @@ EndChar
 
 StartChar: period
 Encoding: 46 46 436
-Width: 282
+Width: 317
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23061,7 +23047,7 @@ EndChar
 
 StartChar: comma
 Encoding: 44 44 437
-Width: 240
+Width: 317
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23096,7 +23082,7 @@ EndChar
 
 StartChar: colon
 Encoding: 58 58 438
-Width: 282
+Width: 317
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23146,13 +23132,12 @@ SplineSet
  99 83 l 1,4,-1
 EndSplineSet
 Kerns2: 518 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 515 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 513 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 512 -8 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 511 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 507 -50 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 506 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 505 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 504 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 503 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 501 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 500 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 498 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 495 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 493 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 487 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 482 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 481 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 477 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 464 -9 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 463 -9 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 458 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 457 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 453 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 446 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 445 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 440 -9 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 439 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 438 -9 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 437 -9 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 436 -9 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 346 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 345 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 344 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 343 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 342 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 341 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 340 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 338 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 337 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 336 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 335 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 334 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 333 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 332 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 331 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 330 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 329 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 328 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 327 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 326 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 325 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 324 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 323 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 322 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 321 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 320 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 319 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 318 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 317 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 316 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 315 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 314 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 313 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 312 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 311 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 310 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 309 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 308 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 307 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 306 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 305 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 304 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 303 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 302 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 301 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 300 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 299 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 291 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 267 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 266 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 265 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 264 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 263 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 262 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 260 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 259 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 258 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 257 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 256 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 255 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 254 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 253 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 252 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 251 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 250 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 249 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 248 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 247 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 246 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 245 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 244 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 243 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 242 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 241 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 240 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 239 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 238 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 237 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 236 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 235 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 234 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 233 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 232 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 231 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 230 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 229 -17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 197 -33 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF1A
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uniFF1A
 EndChar
 
 StartChar: semicolon
 Encoding: 59 59 439
-Width: 297
+Width: 317
 Flags: W
 TtInstrs:
 NPUSHB
@@ -23273,7 +23258,6 @@ SplineSet
  99 83 l 1,4,-1
 EndSplineSet
 Kerns2: 439 20 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF01
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uniFF01
 EndChar
 
@@ -23449,7 +23433,6 @@ SplineSet
  173 83 l 1,23,-1
 EndSplineSet
 Kerns2: 286 -40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 512 -73 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 453 -43 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 437 -140 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF1F
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uniFF1F
 EndChar
 
@@ -23927,7 +23910,6 @@ SplineSet
  90 82 90 82 90 330 c 0,1,2
 EndSplineSet
 Kerns2: 439 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 338 -8 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 286 90 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 453 -107 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 437 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF08
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uniFF08
 EndChar
 
@@ -23997,7 +23979,6 @@ SplineSet
  59 -110 l 1,0,1
 EndSplineSet
 Kerns2: 453 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
-Substitution2: "'fwid' Full Widths in Latin lookup 15 subtable" uniFF09
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uniFF09
 EndChar
 
@@ -43815,6 +43796,15 @@ SplineSet
  99 520 l 1,15,-1
  236 43 l 1,0,-1
 EndSplineSet
+EndChar
+
+StartChar: periodcentered.loclCAT
+Encoding: 1114127 -1 954
+Width: 196
+Flags: W
+LayerCount: 2
+Fore
+Refer: 436 46 N 1 0 0 1 -43 248 2
 EndChar
 EndChars
 EndSplineFont
