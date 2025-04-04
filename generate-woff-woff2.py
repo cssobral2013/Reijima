@@ -12,7 +12,24 @@ with TTFont(srcPath) as font:
 srcPath  = './ttf/Reijima-ThinItalic.ttf'
 woffPath = './web/Reijima-ThinItalic.woff'
 
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
     
+srcPath  = './ttf/Reijima-ExtraLight.ttf'
+woffPath = './web/Reijima-ExtraLight.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
+srcPath  = './ttf/Reijima-ExtraLightItalic.ttf'
+woffPath = './web/Reijima-ExtraLightItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+   
 srcPath  = './ttf/Reijima-Light.ttf'
 woffPath = './web/Reijima-Light.woff'
 
@@ -26,16 +43,7 @@ woffPath = './web/Reijima-LightItalic.woff'
 
 with TTFont(srcPath) as font:
     font.flavor = 'woff'
-    font.save(woffPath)    
-
-    
-srcPath  = './ttf/Reijima-LightItalic.ttf'
-woffPath = './web/Reijima-LightItalic.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath)    
-
+    font.save(woffPath)       
     
 srcPath  = './ttf/Reijima-Regular.ttf'
 woffPath = './web/Reijima-Regular.woff'
@@ -68,6 +76,20 @@ with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
+srcPath  = './ttf/Reijima-SemiBold.ttf'
+woffPath = './web/Reijima-SemiBold.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/Reijima-SemiBoldItalic.ttf'
+woffPath = './web/Reijima-SemiBoldItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath) 
     
 srcPath  = './ttf/Reijima-Bold.ttf'
 woffPath = './web/Reijima-Bold.woff'
@@ -133,7 +155,21 @@ woff2Path = './web/Reijima-ThinItalic.woff2'
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
     font.save(woff2Path)
-    
+ 
+srcPath  = './ttf/Reijima-ExtraLight.ttf'
+woff2Path = './web/Reijima-ExtraLight.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woff2Path)
+
+srcPath  = './ttf/Reijima-ExtraLightItalic.ttf'
+woff2Path = './web/Reijima-ExtraLightItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woff2Path)
+ 
 srcPath  = './ttf/Reijima-Light.ttf'
 woff2Path = './web/Reijima-Light.woff2'
 
@@ -181,7 +217,21 @@ with TTFont(srcPath) as font:
     font.flavor = 'woff2'
     font.save(woff2Path)    
 
+srcPath  = './ttf/Reijima-SemiBold.ttf'
+woff2Path = './web/Reijima-SemiBold.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woff2Path)    
+
     
+srcPath  = './ttf/Reijima-SemiBoldItalic.ttf'
+woff2Path = './web/Reijima-SemiBoldItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woff2Path)    
+ 
 srcPath  = './ttf/Reijima-Bold.ttf'
 woff2Path = './web/Reijima-Bold.woff2'
 

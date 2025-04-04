@@ -8,7 +8,7 @@
     font-weight: 100;
     font-style: normal;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
 
 @font-face {
@@ -19,7 +19,29 @@
     font-weight: 100;
     font-style: italic;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
+}
+
+@font-face {
+    font-family:'Reijima ExtraLight';
+    src: url('web/Reijima-ExtraLight.woff2') format('woff2'),
+		url('web/Reijima-ExtraLight.woff') format('woff'),
+		url('ttf/Reijima-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-stretch: normal;
+
+}
+
+@font-face {
+    font-family:'Reijima ExtraLight';
+    src: url('web/Reijima-ExtraLightItalic.woff2') format('woff2'),
+		url('web/Reijima-ExtraLightItalic.woff') format('woff'),
+		url('ttf/Reijima-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-stretch: normal;
+
 }
 
 @font-face {
@@ -30,7 +52,7 @@
     font-weight: 300;
     font-style: normal;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
 
 @font-face {
@@ -41,7 +63,7 @@
     font-weight: 300;
     font-style: italic;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
 
 @font-face {
@@ -52,7 +74,7 @@
     font-weight: 400;
     font-style: normal;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
 
 @font-face {
@@ -63,7 +85,7 @@
     font-weight: 400;
     font-style: italic;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
 
 @font-face {
@@ -74,7 +96,7 @@
     font-weight: 500;
     font-style: normal;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
 
 @font-face {
@@ -85,8 +107,31 @@
     font-weight: 500;
     font-style: italic;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
+
+@font-face {
+    font-family:'Reijima SemiBold';
+    src: url('web/Reijima-SemiBold.woff2') format('woff2'),
+		url('web/Reijima-SemiBold.woff') format('woff'),
+		url('ttf/Reijima-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+
+}
+
+@font-face {
+    font-family:'Reijima SemiBold';
+    src: url('web/Reijima-SemiBoldItalic.woff2') format('woff2'),
+		url('web/Reijima-SemiBoldItalic.woff') format('woff'),
+		url('ttf/Reijima-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-stretch: normal;
+
+}
+
 
 @font-face {
     font-family:'Reijima';
@@ -96,7 +141,7 @@
     font-weight: 700;
     font-style: normal;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
 
 @font-face {
@@ -107,7 +152,7 @@
     font-weight: 700;
     font-style: italic;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
 
 
@@ -119,7 +164,7 @@
     font-weight: 800;
     font-style: normal;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
 
 
@@ -131,7 +176,7 @@
     font-weight: 800;
     font-style: italic;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
 
 @font-face {
@@ -142,7 +187,7 @@
     font-weight: 900;
     font-style: normal;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
 
 @font-face {
@@ -153,5 +198,5 @@
     font-weight: 900;
     font-style: italic;
     font-stretch: normal;
-    unicode-range: U+001D-FF1F;
+
 }
