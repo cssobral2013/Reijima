@@ -1,0 +1,190 @@
+{
+color = 11;
+glyphname = r;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{211, 0}";
+},
+{
+name = top;
+position = "{211, 520}";
+}
+);
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(208,0,l),
+(239,220,ls),
+(251,303,o),
+(358,370,o),
+(477,370,c),
+(500,530,l),
+(415,530,o),
+(334,496,o),
+(263,430,c),
+(261,430,l),
+(272,520,l),
+(89,520,l),
+(15,0,l)
+);
+}
+);
+width = 483;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{200, 0}";
+},
+{
+name = top;
+position = "{200, 520}";
+}
+);
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+closed = 1;
+nodes = (
+(159,0,l),
+(193,240,ls),
+(207,336,o),
+(326,413,o),
+(460,413,c),
+(476,530,l),
+(377,530,o),
+(282,491,o),
+(216,423,c),
+(214,423,l),
+(226,520,l),
+(98,520,l),
+(23,0,l)
+);
+}
+);
+width = 456;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{189, 0}";
+},
+{
+name = top;
+position = "{189, 520}";
+}
+);
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,0,l),
+(147,260,ls),
+(164,375,o),
+(289,460,o),
+(443,460,c),
+(453,530,l),
+(338,530,o),
+(229,485,o),
+(168,412,c),
+(166,412,l),
+(180,520,l),
+(106,520,l),
+(32,0,l)
+);
+}
+);
+width = 434;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{231, 0}";
+},
+{
+name = top;
+position = "{231, 520}";
+}
+);
+layerId = "197DEB4F-431F-44AB-9E75-DFE960AF7369";
+partSelection = {
+Wt = 2;
+};
+associatedMasterId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(130,0,l),
+(130,270,ls),
+(130,398,o),
+(246,485,o),
+(417,485,c),
+(417,530,l),
+(291,530,o),
+(180,481,o),
+(131,404,c),
+(129,404,l),
+(128,520,l),
+(81,520,l),
+(81,0,l)
+);
+}
+);
+width = 433;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{177, 0}";
+},
+{
+name = top;
+position = "{177, 520}";
+}
+);
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,0,l),
+(100,280,ls),
+(118,408,o),
+(263,510,o),
+(426,510,c),
+(429,530,l),
+(298,530,o),
+(174,466,o),
+(115,370,c),
+(113,370,l),
+(134,520,l),
+(115,520,l),
+(41,0,l)
+);
+}
+);
+width = 411;
+}
+);
+partsSettings = (
+{
+bottomValue = 0;
+name = Wt;
+topValue = 1000;
+}
+);
+leftKerningGroup = n;
+rightKerningGroup = r;
+unicode = 114;
+}

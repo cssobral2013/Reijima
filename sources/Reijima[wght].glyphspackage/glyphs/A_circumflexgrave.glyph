@@ -1,0 +1,157 @@
+{
+color = 11;
+glyphname = Acircumflexgrave;
+layers = (
+{
+layerId = "F2505AC5-901F-4BF6-BFE9-C6AF332FBC83";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+pos = (70,210);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (-64,390);
+ref = gravecomb;
+}
+);
+width = 734;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{160, 910}";
+},
+{
+name = bottom;
+position = "{357, 0}";
+},
+{
+name = ogonek;
+position = "{703, 0}";
+},
+{
+name = top_acR;
+position = "{554, 910}";
+},
+{
+name = top_grL;
+position = "{159, 910}";
+},
+{
+name = top_hkR;
+position = "{413, 937}";
+},
+{
+name = top_ring;
+position = "{358, 682}";
+},
+{
+name = top_td;
+position = "{357, 970}";
+}
+);
+layerId = "A825F678-EB93-40C4-A48C-B705E79FBCA5";
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = A;
+},
+{
+alignment = -1;
+pos = (98,210);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (-7,390);
+ref = gravecomb;
+}
+);
+width = 714;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{180, 910}";
+},
+{
+name = bottom;
+position = "{348, 0}";
+},
+{
+name = ogonek;
+position = "{681, 0}";
+},
+{
+name = top_acR;
+position = "{515, 910}";
+},
+{
+name = top_grL;
+position = "{180, 910}";
+},
+{
+name = top_hkR;
+position = "{381, 923}";
+},
+{
+name = top_ring;
+position = "{348, 698}";
+},
+{
+name = top_td;
+position = "{348, 950}";
+}
+);
+layerId = "0F4B55C1-D1AF-4339-8523-EC07133CB1AA";
+shapes = (
+{
+alignment = -1;
+pos = (-3,0);
+ref = A;
+},
+{
+alignment = -1;
+pos = (119,210);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (43,390);
+ref = gravecomb;
+}
+);
+width = 695;
+},
+{
+layerId = "2AC8629E-CA28-4614-8069-B83962E1F0CC";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+pos = (139,210);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (90,390);
+ref = gravecomb;
+}
+);
+width = 678;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+unicode = 7846;
+}

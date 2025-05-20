@@ -1,0 +1,87 @@
+{
+color = 11;
+glyphname = dcroat;
+leftMetricsKey = d;
+rightMetricsKey = W;
+layers = (
+{
+layerId = "F2505AC5-901F-4BF6-BFE9-C6AF332FBC83";
+shapes = (
+{
+closed = 1;
+nodes = (
+(679,545,l),
+(679,685,l),
+(259,685,l),
+(259,545,l)
+);
+},
+{
+alignment = -1;
+ref = d;
+}
+);
+width = 705;
+},
+{
+layerId = "A825F678-EB93-40C4-A48C-B705E79FBCA5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(648,562,l),
+(648,668,l),
+(228,668,l),
+(228,562,l)
+);
+},
+{
+alignment = -1;
+ref = d;
+}
+);
+width = 672;
+},
+{
+layerId = "0F4B55C1-D1AF-4339-8523-EC07133CB1AA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(618,582,l),
+(618,648,l),
+(198,648,l),
+(198,582,l)
+);
+},
+{
+alignment = -1;
+ref = d;
+}
+);
+width = 644;
+},
+{
+layerId = "2AC8629E-CA28-4614-8069-B83962E1F0CC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(587,605,l),
+(587,625,l),
+(167,625,l),
+(167,605,l)
+);
+},
+{
+alignment = -1;
+ref = d;
+}
+);
+width = 617;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = W;
+unicode = 273;
+}

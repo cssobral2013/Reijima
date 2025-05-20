@@ -1,0 +1,129 @@
+{
+color = 11;
+glyphname = Abreve;
+layers = (
+{
+layerId = "F2505AC5-901F-4BF6-BFE9-C6AF332FBC83";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+pos = (101,210);
+ref = brevecomb;
+}
+);
+width = 734;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{357, 0}";
+},
+{
+name = ogonek;
+position = "{703, 0}";
+},
+{
+name = top_ac;
+position = "{330, 917}";
+},
+{
+name = top_gr;
+position = "{383, 917}";
+},
+{
+name = top_hk;
+position = "{357, 970}";
+},
+{
+name = top_ring;
+position = "{358, 682}";
+},
+{
+name = top_td;
+position = "{357, 960}";
+}
+);
+layerId = "A825F678-EB93-40C4-A48C-B705E79FBCA5";
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = A;
+},
+{
+alignment = -1;
+pos = (114,210);
+ref = brevecomb;
+}
+);
+width = 714;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{348, 0}";
+},
+{
+name = ogonek;
+position = "{681, 0}";
+},
+{
+name = top_ac;
+position = "{334, 903}";
+},
+{
+name = top_gr;
+position = "{361, 903}";
+},
+{
+name = top_hk;
+position = "{348, 950}";
+},
+{
+name = top_ring;
+position = "{348, 698}";
+},
+{
+name = top_td;
+position = "{348, 940}";
+}
+);
+layerId = "0F4B55C1-D1AF-4339-8523-EC07133CB1AA";
+shapes = (
+{
+alignment = -1;
+pos = (-3,0);
+ref = A;
+},
+{
+alignment = -1;
+pos = (122,210);
+ref = brevecomb;
+}
+);
+width = 695;
+},
+{
+layerId = "2AC8629E-CA28-4614-8069-B83962E1F0CC";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+pos = (132,210);
+ref = brevecomb;
+}
+);
+width = 678;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+unicode = 258;
+}

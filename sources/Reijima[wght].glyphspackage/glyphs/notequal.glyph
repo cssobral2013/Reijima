@@ -1,0 +1,86 @@
+{
+glyphname = notequal;
+leftMetricsKey = equal;
+rightMetricsKey = "=|";
+layers = (
+{
+layerId = "F2505AC5-901F-4BF6-BFE9-C6AF332FBC83";
+shapes = (
+{
+closed = 1;
+nodes = (
+(543,585,l),
+(381,636,l),
+(181,-5,l),
+(343,-56,l)
+);
+},
+{
+alignment = -1;
+ref = equal;
+}
+);
+width = 722;
+},
+{
+layerId = "A825F678-EB93-40C4-A48C-B705E79FBCA5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(533,585,l),
+(414,622,l),
+(214,-5,l),
+(333,-42,l)
+);
+},
+{
+alignment = -1;
+ref = equal;
+}
+);
+width = 744;
+},
+{
+layerId = "0F4B55C1-D1AF-4339-8523-EC07133CB1AA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(519,585,l),
+(448,607,l),
+(248,-5,l),
+(319,-27,l)
+);
+},
+{
+alignment = -1;
+ref = equal;
+}
+);
+width = 766;
+},
+{
+layerId = "2AC8629E-CA28-4614-8069-B83962E1F0CC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(504,586,l),
+(486,592,l),
+(286,-6,l),
+(304,-12,l)
+);
+},
+{
+alignment = -1;
+ref = equal;
+}
+);
+width = 788;
+}
+);
+leftKerningGroup = equal;
+rightKerningGroup = equal;
+unicode = 8800;
+}

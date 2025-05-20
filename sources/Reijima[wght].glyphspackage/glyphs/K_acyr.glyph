@@ -1,0 +1,174 @@
+{
+glyphname = Kacyr;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (730,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (73,200);
+type = Stem;
+}
+);
+layerId = "F2505AC5-901F-4BF6-BFE9-C6AF332FBC83";
+shapes = (
+{
+closed = 1;
+nodes = (
+(73,0,l),
+(273,0,l),
+(273,340,l),
+(275,340,l),
+(473,0,l),
+(703,0,l),
+(463,380,l),
+(693,730,l),
+(463,730,l),
+(275,420,l),
+(273,420,l),
+(273,730,l),
+(73,730,l)
+);
+}
+);
+width = 726;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (730,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (79,140);
+type = Stem;
+}
+);
+layerId = "A825F678-EB93-40C4-A48C-B705E79FBCA5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(79,0,l),
+(219,0,l),
+(219,347,l),
+(221,347,l),
+(486,0,l),
+(649,0,l),
+(349,380,l),
+(639,730,l),
+(476,730,l),
+(221,413,l),
+(219,413,l),
+(219,730,l),
+(79,730,l)
+);
+}
+);
+width = 678;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (730,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (85,80);
+type = Stem;
+}
+);
+layerId = "0F4B55C1-D1AF-4339-8523-EC07133CB1AA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,0,l),
+(165,0,l),
+(165,356,l),
+(167,356,l),
+(502,0,l),
+(598,0,l),
+(237,380,l),
+(588,730,l),
+(491,730,l),
+(167,405,l),
+(165,405,l),
+(165,730,l),
+(85,730,l)
+);
+}
+);
+width = 633;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (730,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (91,20);
+type = Stem;
+}
+);
+layerId = "2AC8629E-CA28-4614-8069-B83962E1F0CC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(91,0,l),
+(111,0,l),
+(111,367,l),
+(113,367,l),
+(521,0,l),
+(551,0,l),
+(126,380,l),
+(541,730,l),
+(510,730,l),
+(113,394,l),
+(111,394,l),
+(111,730,l),
+(91,730,l)
+);
+}
+);
+width = 592;
+}
+);
+unicode = 1050;
+}

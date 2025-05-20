@@ -1,0 +1,172 @@
+{
+glyphname = abrevecyr;
+leftMetricsKey = a;
+widthMetricsKey = a;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{235, 0}";
+},
+{
+name = ogonek;
+position = "{484, 0}";
+},
+{
+name = top_ac;
+position = "{195, 720}";
+},
+{
+name = top_gr;
+position = "{275, 720}";
+},
+{
+name = top_hk;
+position = "{235, 780}";
+},
+{
+name = top_td;
+position = "{235, 770}";
+}
+);
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+alignment = -1;
+ref = acyr;
+},
+{
+alignment = -1;
+pos = (12,0);
+ref = brevecomb;
+}
+);
+width = 631;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{702, 0}";
+},
+{
+name = ogonek;
+position = "{933, 0}";
+},
+{
+name = top_ac;
+position = "{675, 707}";
+},
+{
+name = top_gr;
+position = "{729, 707}";
+},
+{
+name = top_hk;
+position = "{702, 760}";
+},
+{
+name = top_td;
+position = "{702, 750}";
+}
+);
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+alignment = -1;
+ref = acyr;
+},
+{
+alignment = -1;
+pos = (510,0);
+ref = brevecomb;
+}
+);
+width = 604;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{667, 0}";
+},
+{
+name = ogonek;
+position = "{880, 0}";
+},
+{
+name = top_ac;
+position = "{654, 693}";
+},
+{
+name = top_gr;
+position = "{681, 693}";
+},
+{
+name = top_hk;
+position = "{667, 740}";
+},
+{
+name = top_td;
+position = "{667, 730}";
+}
+);
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+alignment = -1;
+ref = acyr;
+},
+{
+alignment = -1;
+pos = (504,0);
+ref = brevecomb;
+}
+);
+width = 576;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{191, 0}";
+},
+{
+name = ogonek;
+position = "{385, 0}";
+},
+{
+name = top_ac;
+position = "{191, 680}";
+},
+{
+name = top_gr;
+position = "{191, 680}";
+},
+{
+name = top_hk;
+position = "{191, 720}";
+},
+{
+name = top_td;
+position = "{191, 710}";
+}
+);
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+alignment = -1;
+ref = acyr;
+},
+{
+alignment = -1;
+pos = (76,0);
+ref = brevecomb;
+}
+);
+width = 549;
+}
+);
+unicode = 1233;
+}

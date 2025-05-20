@@ -1,0 +1,97 @@
+{
+color = 11;
+glyphname = Scommaaccent;
+layers = (
+{
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+pos = (143,0);
+ref = commaaccentcomb;
+}
+);
+width = 678;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{289, -240}";
+},
+{
+name = cedi;
+position = "{213, 0}";
+},
+{
+name = top;
+position = "{289, 730}";
+}
+);
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+alignment = -1;
+pos = (-5,0);
+ref = S;
+},
+{
+alignment = -1;
+pos = (165,0);
+ref = commaaccentcomb;
+}
+);
+width = 669;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{285, -240}";
+},
+{
+name = cedi;
+position = "{218, 0}";
+},
+{
+name = top;
+position = "{285, 730}";
+}
+);
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+alignment = -1;
+pos = (-2,0);
+ref = S;
+},
+{
+alignment = -1;
+pos = (185,0);
+ref = commaaccentcomb;
+}
+);
+width = 660;
+},
+{
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+pos = (201,0);
+ref = commaaccentcomb;
+}
+);
+width = 652;
+}
+);
+leftKerningGroup = S;
+rightKerningGroup = S;
+unicode = 536;
+}

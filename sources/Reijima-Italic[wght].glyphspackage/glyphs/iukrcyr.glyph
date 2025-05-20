@@ -1,0 +1,197 @@
+{
+glyphname = iukrcyr;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (520,-20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (610,140);
+type = Stem;
+},
+{
+place = (81,195);
+type = Stem;
+}
+);
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(126,610,l),
+(321,610,l),
+(341,750,l),
+(146,750,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(39,0,l),
+(234,0,l),
+(308,520,l),
+(113,520,l)
+);
+}
+);
+width = 357;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (520,-20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (750,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (-37,134);
+type = Stem;
+}
+);
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+closed = 1;
+nodes = (
+(145,630,l),
+(278,630,l),
+(295,750,l),
+(162,750,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(55,0,l),
+(188,0,l),
+(262,520,l),
+(129,520,l)
+);
+}
+);
+width = 327;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (520,-20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (750,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (112,75);
+type = Stem;
+}
+);
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+closed = 1;
+nodes = (
+(161,640,l),
+(236,640,l),
+(252,750,l),
+(177,750,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(70,0,l),
+(145,0,l),
+(219,520,l),
+(144,520,l)
+);
+}
+);
+width = 299;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (520,-20);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+place = (750,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (108,20);
+type = Stem;
+}
+);
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(177,640,l),
+(196,640,l),
+(212,750,l),
+(193,750,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(86,0,l),
+(105,0,l),
+(179,520,l),
+(160,520,l)
+);
+}
+);
+width = 275;
+}
+);
+unicode = 1110;
+}

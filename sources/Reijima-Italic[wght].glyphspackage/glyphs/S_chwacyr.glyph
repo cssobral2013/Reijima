@@ -1,0 +1,102 @@
+{
+glyphname = Schwacyr;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,155);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (305,135);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (530,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (580,160);
+type = Stem;
+},
+{
+place = (33,190);
+type = Stem;
+},
+{
+place = (533,55);
+type = Stem;
+}
+);
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+alignment = -1;
+ref = Schwa;
+}
+);
+width = 743;
+},
+{
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+alignment = -1;
+ref = Schwa;
+}
+);
+width = 740;
+},
+{
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+alignment = -1;
+ref = Schwa;
+}
+);
+width = 738;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,20);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (350,20);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (720,20);
+type = Stem;
+},
+{
+place = (51,20);
+type = Stem;
+},
+{
+place = (671,10);
+type = Stem;
+}
+);
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+alignment = -1;
+ref = Schwa;
+}
+);
+width = 735;
+}
+);
+unicode = 1240;
+}

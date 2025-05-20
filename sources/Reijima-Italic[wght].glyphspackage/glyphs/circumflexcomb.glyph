@@ -1,0 +1,173 @@
+{
+color = 1;
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{247, 520}";
+},
+{
+name = top_acR;
+position = "{475, 700}";
+},
+{
+name = top_grL;
+position = "{18, 700}";
+},
+{
+name = top_hkR;
+position = "{325, 740}";
+},
+{
+name = top_td;
+position = "{247, 780}";
+}
+);
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(270,570,l),
+(347,710,l),
+(349,710,l),
+(387,570,l),
+(591,570,l),
+(506,790,l),
+(213,790,l),
+(65,570,l)
+);
+}
+);
+width = 577;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{211, 520}";
+},
+{
+name = top_acR;
+position = "{403, 700}";
+},
+{
+name = top_grL;
+position = "{18, 700}";
+},
+{
+name = top_hkR;
+position = "{266, 727}";
+},
+{
+name = top_td;
+position = "{211, 760}";
+}
+);
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+closed = 1;
+nodes = (
+(213,570,l),
+(314,730,l),
+(316,730,l),
+(371,570,l),
+(523,570,l),
+(434,790,l),
+(211,790,l),
+(61,570,l)
+);
+}
+);
+width = 505;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{181, 520}";
+},
+{
+name = top_acR;
+position = "{344, 700}";
+},
+{
+name = top_grL;
+position = "{18, 700}";
+},
+{
+name = top_hkR;
+position = "{213, 713}";
+},
+{
+name = top_td;
+position = "{181, 740}";
+}
+);
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+closed = 1;
+nodes = (
+(156,570,l),
+(288,752,l),
+(290,752,l),
+(370,570,l),
+(463,570,l),
+(361,790,l),
+(227,790,l),
+(64,570,l)
+);
+}
+);
+width = 448;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{131, 520}";
+},
+{
+name = top_acR;
+position = "{293, 700}";
+},
+{
+name = top_grL;
+position = "{13, 700}";
+},
+{
+name = top_hkR;
+position = "{163, 700}";
+},
+{
+name = top_td;
+position = "{153, 719}";
+}
+);
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(91,570,l),
+(263,776,l),
+(265,776,l),
+(378,570,l),
+(402,570,l),
+(280,790,l),
+(251,790,l),
+(67,570,l)
+);
+}
+);
+width = 390;
+}
+);
+leftKerningGroup = diacritical_top;
+rightKerningGroup = diacritical_top;
+unicode = 770;
+}

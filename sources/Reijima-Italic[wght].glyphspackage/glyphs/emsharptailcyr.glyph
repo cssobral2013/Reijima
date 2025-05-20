@@ -1,0 +1,199 @@
+{
+glyphname = emsharptailcyr;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (520,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (-117,179);
+type = Stem;
+},
+{
+place = (502,182);
+type = Stem;
+}
+);
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(506,-160,l),
+(662,-160,l),
+(776,125,l),
+(611,125,l),
+(565,0,l),
+(565,0,l)
+);
+},
+{
+alignment = -1;
+ref = emcyr;
+}
+);
+width = 803;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,96);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (130,94);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (340,180);
+type = Stem;
+},
+{
+place = (-58,125);
+type = Stem;
+},
+{
+place = (407,128);
+type = Stem;
+},
+{
+place = (543,60);
+type = Stem;
+}
+);
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+closed = 1;
+nodes = (
+(524,-160,l),
+(634,-160,l),
+(738,96,l),
+(598,96,l),
+(561,0,l),
+(587,0,l)
+);
+},
+{
+alignment = -1;
+ref = emcyr;
+}
+);
+width = 775;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,61);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (154,56);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (420,100);
+type = Stem;
+},
+{
+place = (73,72);
+type = Stem;
+},
+{
+place = (495,73);
+type = Stem;
+},
+{
+place = (567,37);
+type = Stem;
+}
+);
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+closed = 1;
+nodes = (
+(547,-160,l),
+(612,-160,l),
+(702,61,l),
+(585,61,l),
+(562,0,l),
+(612,0,l)
+);
+},
+{
+alignment = -1;
+ref = emcyr;
+}
+);
+width = 750;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,20);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (178,17);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (501,19);
+type = Stem;
+},
+{
+place = (79,20);
+type = Stem;
+},
+{
+place = (580,20);
+type = Stem;
+},
+{
+place = (600,10);
+type = Stem;
+}
+);
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(576,-160,l),
+(595,-160,l),
+(668,20,l),
+(590,20,l),
+(587,0,l),
+(641,0,l)
+);
+},
+{
+alignment = -1;
+ref = emcyr;
+}
+);
+width = 727;
+}
+);
+unicode = 1230;
+}

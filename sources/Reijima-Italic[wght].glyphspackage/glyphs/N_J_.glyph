@@ -1,0 +1,89 @@
+{
+color = 11;
+glyphname = NJ;
+layers = (
+{
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (750,0);
+ref = J;
+}
+);
+width = 1351;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{997, 0}";
+},
+{
+name = top;
+position = "{997, 730}";
+}
+);
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (743,0);
+ref = J;
+}
+);
+width = 1344;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{992, 0}";
+},
+{
+name = top;
+position = "{992, 730}";
+}
+);
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (737,0);
+ref = J;
+}
+);
+width = 1337;
+},
+{
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (730,0);
+ref = J;
+}
+);
+width = 1330;
+}
+);
+leftKerningGroup = H;
+rightKerningGroup = U;
+unicode = 458;
+}

@@ -1,0 +1,186 @@
+{
+glyphname = Emsharptailcyr;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (730,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (71,184);
+type = Stem;
+},
+{
+place = (625,187);
+type = Stem;
+}
+);
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(625,-160,l),
+(801,-160,l),
+(930,160,l),
+(744,160,l),
+(685,0,l),
+(685,0,l)
+);
+},
+{
+alignment = -1;
+ref = M;
+}
+);
+width = 952;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,113);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (493,237);
+type = Stem;
+},
+{
+place = (77,130);
+type = Stem;
+},
+{
+place = (512,134);
+type = Stem;
+},
+{
+place = (650,65);
+type = Stem;
+}
+);
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+closed = 1;
+nodes = (
+(635,-160,l),
+(759,-160,l),
+(870,113,l),
+(716,113,l),
+(673,0,l),
+(699,0,l)
+);
+},
+{
+alignment = -1;
+ref = M;
+}
+);
+width = 905;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,67);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (596,134);
+type = Stem;
+},
+{
+place = (83,75);
+type = Stem;
+},
+{
+place = (597,78);
+type = Stem;
+},
+{
+place = (675,39);
+type = Stem;
+}
+);
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+closed = 1;
+nodes = (
+(686,-160,l),
+(758,-160,l),
+(850,67,l),
+(726,67,l),
+(701,0,l),
+(751,0,l)
+);
+},
+{
+alignment = -1;
+pos = (-1,0);
+ref = M;
+}
+);
+width = 868;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,20);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (709,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (69,20);
+type = Stem;
+},
+{
+place = (693,20);
+type = Stem;
+},
+{
+place = (713,10);
+type = Stem;
+}
+);
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(689,-160,l),
+(708,-160,l),
+(781,20,l),
+(729,20,l),
+(726,0,l),
+(754,0,l)
+);
+},
+{
+alignment = -1;
+ref = M;
+}
+);
+width = 840;
+}
+);
+unicode = 1229;
+}

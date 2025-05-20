@@ -1,0 +1,180 @@
+{
+color = 11;
+glyphname = acircumflexacute;
+leftMetricsKey = a;
+widthMetricsKey = a;
+layers = (
+{
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (48,0);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (486,180);
+ref = acutecomb;
+}
+);
+width = 631;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{425, 700}";
+},
+{
+name = bottom;
+position = "{227, 0}";
+},
+{
+name = ogonek;
+position = "{458, 0}";
+},
+{
+name = top_acR;
+position = "{424, 700}";
+},
+{
+name = top_grL;
+position = "{30, 700}";
+},
+{
+name = top_hkR;
+position = "{284, 727}";
+},
+{
+name = top_td;
+position = "{227, 760}";
+}
+);
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (343,180);
+ref = acutecomb;
+}
+);
+width = 604;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{364, 700}";
+},
+{
+name = bottom;
+position = "{208, 0}";
+},
+{
+name = ogonek;
+position = "{402, 0}";
+},
+{
+name = top_acR;
+position = "{333, 700}";
+},
+{
+name = top_grL;
+position = "{45, 700}";
+},
+{
+name = top_hkR;
+position = "{199, 700}";
+},
+{
+name = top_td;
+position = "{189, 719}";
+}
+);
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (32,0);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (320,180);
+ref = acutecomb;
+}
+);
+width = 576;
+},
+{
+layerId = "197DEB4F-431F-44AB-9E75-DFE960AF7369";
+partSelection = {
+Wt = 2;
+};
+associatedMasterId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (31,0);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (294,180);
+ref = acutecomb;
+}
+);
+width = 541;
+},
+{
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (89,0);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (305,180);
+ref = acutecomb;
+}
+);
+width = 549;
+}
+);
+partsSettings = (
+{
+bottomValue = 0;
+name = Wt;
+topValue = 1000;
+}
+);
+leftKerningGroup = a;
+rightKerningGroup = h;
+unicode = 7845;
+}

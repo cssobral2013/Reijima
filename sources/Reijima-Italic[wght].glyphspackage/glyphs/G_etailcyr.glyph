@@ -1,0 +1,215 @@
+{
+glyphname = Getailcyr;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (565,165);
+type = Stem;
+},
+{
+place = (71,200);
+type = Stem;
+},
+{
+place = (28,185);
+type = Stem;
+},
+{
+place = (154,59);
+type = Stem;
+}
+);
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(29,0,l),
+(229,0,l),
+(310,565,l),
+(568,565,l),
+(591,730,l),
+(133,730,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(148,-160,l),
+(333,-160,l),
+(379,160,l),
+(194,160,l),
+(171,0,l),
+(171,0,l)
+);
+}
+);
+width = 571;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-160,160);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (612,118);
+type = Stem;
+},
+{
+place = (77,142);
+type = Stem;
+},
+{
+place = (199,20);
+type = Stem;
+},
+{
+place = (20,153);
+type = Stem;
+}
+);
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+closed = 1;
+nodes = (
+(35,0,l),
+(176,0,l),
+(263,612,l),
+(554,612,l),
+(571,730,l),
+(139,730,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(134,-160,l),
+(261,-160,l),
+(300,113,l),
+(147,113,l),
+(131,0,l),
+(157,0,l)
+);
+}
+);
+width = 557;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-107,113);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (660,70);
+type = Stem;
+},
+{
+place = (83,81);
+type = Stem;
+},
+{
+place = (161,3);
+type = Stem;
+},
+{
+place = (164,85);
+type = Stem;
+}
+);
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+closed = 1;
+nodes = (
+(41,-1,l),
+(122,-1,l),
+(216,660,l),
+(541,660,l),
+(551,730,l),
+(145,730,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(104,-107,l),
+(192,-107,l),
+(208,6,l),
+(123,6,l),
+(123,6,l),
+(120,6,l)
+);
+}
+);
+width = 543;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,20);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (710,20);
+type = Stem;
+},
+{
+place = (69,20);
+type = Stem;
+},
+{
+place = (89,10);
+type = Stem;
+},
+{
+place = (147,20);
+type = Stem;
+}
+);
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(47,0,l),
+(66,0,l),
+(167,710,l),
+(528,710,l),
+(531,730,l),
+(151,730,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(56,0,l),
+(125,0,l),
+(102,-160,l),
+(121,-160,l),
+(147,20,l),
+(59,20,l)
+);
+}
+);
+width = 528;
+}
+);
+unicode = 1270;
+}

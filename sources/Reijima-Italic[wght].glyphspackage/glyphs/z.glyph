@@ -1,0 +1,195 @@
+{
+color = 11;
+glyphname = z;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{264, 0}";
+},
+{
+name = center;
+position = "{264, 260}";
+},
+{
+name = top;
+position = "{264, 520}";
+}
+);
+layerId = "8473AFB6-9108-4194-BCDA-FD380D14785A";
+name = "Medium.Dec 5 20, 16:52";
+shapes = (
+{
+closed = 1;
+nodes = (
+(474,0,l),
+(474,90,l),
+(190,90,l),
+(190,92,l),
+(474,430,l),
+(474,520,l),
+(54,520,l),
+(54,430,l),
+(338,430,l),
+(338,428,l),
+(54,90,l),
+(54,0,l)
+);
+}
+);
+width = 528;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{238, 0}";
+},
+{
+name = center;
+position = "{238, 260}";
+},
+{
+name = top;
+position = "{238, 520}";
+}
+);
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(467,0,l),
+(487,140,l),
+(270,140,l),
+(270,142,l),
+(521,380,l),
+(541,520,l),
+(83,520,l),
+(63,380,l),
+(280,380,l),
+(280,378,l),
+(29,140,l),
+(9,0,l)
+);
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{213, 0}";
+},
+{
+name = center;
+position = "{213, 260}";
+},
+{
+name = top;
+position = "{213, 520}";
+}
+);
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+closed = 1;
+nodes = (
+(430,0,l),
+(445,107,l),
+(185,107,l),
+(185,109,l),
+(489,413,l),
+(504,520,l),
+(71,520,l),
+(56,413,l),
+(316,413,l),
+(316,411,l),
+(12,107,l),
+(-3,0,l)
+);
+}
+);
+width = 511;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{206, 0}";
+},
+{
+name = center;
+position = "{206, 260}";
+},
+{
+name = top;
+position = "{206, 520}";
+}
+);
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+closed = 1;
+nodes = (
+(409,0,l),
+(419,67,l),
+(113,67,l),
+(113,69,l),
+(474,453,l),
+(484,520,l),
+(77,520,l),
+(68,453,l),
+(374,453,l),
+(373,451,l),
+(12,67,l),
+(3,0,l)
+);
+}
+);
+width = 496;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{198, 0}";
+},
+{
+name = center;
+position = "{198, 260}";
+},
+{
+name = top;
+position = "{198, 520}";
+}
+);
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(388,0,l),
+(391,20,l),
+(37,20,l),
+(37,22,l),
+(459,500,l),
+(462,520,l),
+(82,520,l),
+(79,500,l),
+(433,500,l),
+(433,498,l),
+(11,20,l),
+(8,0,l)
+);
+}
+);
+width = 480;
+}
+);
+leftKerningGroup = z;
+rightKerningGroup = z;
+unicode = 122;
+}

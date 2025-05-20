@@ -1,0 +1,113 @@
+{
+color = 11;
+glyphname = Uhorn;
+layers = (
+{
+layerId = "85FAA1A3-2184-4466-B7C1-269FA7F78F7B";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+pos = (527,65);
+ref = horncomb;
+}
+);
+width = 822;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{322, 0}";
+},
+{
+name = ogonek;
+position = "{450, 10}";
+},
+{
+name = top;
+position = "{322, 730}";
+},
+{
+name = top_ring;
+position = "{322, 713}";
+},
+{
+name = topright;
+position = "{834, 838}";
+}
+);
+layerId = "840EB1FB-AC3A-40D2-8862-608CEC91F102";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = U;
+},
+{
+alignment = -1;
+pos = (543,68);
+ref = horncomb;
+}
+);
+width = 781;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{318, 0}";
+},
+{
+name = ogonek;
+position = "{438, 10}";
+},
+{
+name = top;
+position = "{318, 730}";
+},
+{
+name = top_ring;
+position = "{318, 707}";
+},
+{
+name = topright;
+position = "{795, 842}";
+}
+);
+layerId = "E063002F-8124-4781-80CF-71870B1E9574";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = U;
+},
+{
+alignment = -1;
+pos = (535,72);
+ref = horncomb;
+}
+);
+width = 723;
+},
+{
+layerId = "E3F1C297-59E6-4938-934E-5A7468ADCF5D";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+pos = (505,75);
+ref = horncomb;
+}
+);
+width = 650;
+}
+);
+leftKerningGroup = U;
+rightKerningGroup = V;
+unicode = 431;
+}
